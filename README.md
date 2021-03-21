@@ -40,3 +40,6 @@ And also run the Serverless application in separate terminal window:
 ```
 sls wsgi serve
 ```
+
+# License
+This sample code is made available under the MIT license. See the LICENSE file.
